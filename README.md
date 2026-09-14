@@ -16,7 +16,7 @@ Multi-tenant restaurant ordering SaaS QR self-ordering, live order tracking, sta
 Cross-platform freelance client manager invoicing, time tracking, recurring billing, freemium IAP. Flutter + Riverpod (codegen) + Supabase, clean architecture.
 
 **[PawPass](https://github.com/MrChetra007/pawpass_flutter)**
-Digital pet health passport — vaccination/medication tracking, appointment reminders, subscription tiers. Flutter + Supabase, RLS-secured.
+Digital pet health passport vaccination/medication tracking, appointment reminders, subscription tiers. Flutter + Supabase, RLS-secured.
 
 **[Science Lab](https://github.com/MrChetra007/science_sim_app)**
 11 interactive physics & chemistry simulations for education, built on the Flame game engine, with a freemium ad/IAP model. Flutter, English + Khmer.
